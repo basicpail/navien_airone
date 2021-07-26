@@ -1,0 +1,9 @@
+{
+    "version":"0.1.0",
+    "domain": "navien",
+    "name": "navien",
+    "config_flow": true,
+    "documentation": "",
+    "requirements": [],
+    "codeowners": ["@ssg"]
+  }
